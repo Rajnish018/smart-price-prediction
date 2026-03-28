@@ -19,7 +19,7 @@ state_encoder = joblib.load("state_encoder.pkl")
 # CEDA CONFIG
 # =========================
 BASE_URL = "https://agmarknet.ceda.ashoka.edu.in"
-API_KEY = "d633d5593c43418605b1d16b5141397bd9e44618bf7b2947e6b704c37fb5a830"
+API_KEY = "04d6425eab06d013a371515685d6abcf03ac573d58f96abc212148cd8e9f5d30"
 
 headers = {
     "Content-Type": "application/json",
